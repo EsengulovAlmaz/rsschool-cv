@@ -1,1 +1,1 @@
-<https://esengulovalmaz.github.io/rsschool-cv/cv>
+<https://esengulovalmaz.github.io/rsschool-cv/>

@@ -18,3 +18,20 @@
 My goal is to learn programming and get a job. I think my forte is self-learning.I love writing code and learning new things.
 
 
+
+****
+
+
+## My Skills
+
+1. HTML 
+2. CSS, SCSS, Bootstrap, BEM, Material-UI
+3. JavaScript Basics
+4. Git/GitHub Basics
+5. React (JSX, Hooks, State, Props, Components)
+
+
+
+*****
+
+

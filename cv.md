@@ -11,3 +11,10 @@
 
 
 ****
+
+
+## Information About Me
+
+My goal is to learn programming and get a job. I think my forte is self-learning.I love writing code and learning new things.
+
+

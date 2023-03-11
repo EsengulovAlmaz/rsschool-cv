@@ -1,0 +1,75 @@
+# Esengulov ALmaz
+
+## My Contacts
+
+1. Phone: +996 700-639-602
+2. GitHub: [AlmazEsengulov](https://github.com/EsengulovAlmaz)
+3. Email: [almaz.esengulov.pi.9.03.20](almaz.esengulov.pi.9.03.20@gmail.com)
+4. Instagram: [Almaz Esengulov](https://www.instagram.com/__esengulov_/)
+5. Telegram: [EsAlmaz](https://t.me/EsAlmaz)
+
+
+
+****
+
+
+## Information About Me
+
+My goal is to learn programming and get a job. I think my forte is self-learning.I love writing code and learning new things.
+
+
+
+****
+
+
+## My Skills
+
+1. HTML 
+2. CSS, SCSS, Bootstrap, BEM, Material-UI
+3. JavaScript Basics
+4. Git/GitHub Basics
+5. React (JSX, Hooks, State, Props, Components)
+
+
+
+*****
+
+
+## Code Examples
+
+```JavaScript
+const palindrom = (num) => {
+    let a = num % 10;
+    let b = Math.floor(num % 100 / 10);
+    let c = Math.floor(num % 1000 / 100);
+    let d = Math.floor(num % 10000 / 1000);
+
+    if(a === d && b === c){
+        console.log(true);
+    } else {
+        console.log(false);
+    }
+};
+```
+
+
+****
+
+
+## Educational Projects
+
+1. [Anime App](https://github.com/EsengulovAlmaz/Anime-App) (HTML, CSS, JavaScript)
+2. [Sneakers Shop](https://github.com/EsengulovAlmaz/react-sneakers) (HTML, SCSS, React)
+
+
+
+****
+
+## Education
+
+Self-taught
+
+
+****
+## English
+* English level - A2. I am currently actively learning English.

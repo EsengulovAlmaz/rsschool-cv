@@ -35,7 +35,7 @@ My goal is to learn programming and get a job. I think my forte is self-learning
 *****
 
 
-## Code examples
+## Code Examples
 
 ```JavaScript
 const palindrom = (num) => {
@@ -55,4 +55,13 @@ const palindrom = (num) => {
 
 ****
 
+
+## Educational Projects
+
+1. [Anime App](https://github.com/EsengulovAlmaz/Anime-App) (HTML, CSS, JavaScript)
+2. [Sneakers Shop](https://github.com/EsengulovAlmaz/react-sneakers) (HTML, SCSS, React)
+
+
+
+****
 

@@ -65,3 +65,9 @@ const palindrom = (num) => {
 
 ****
 
+## Education
+
+Self-taught
+
+
+****

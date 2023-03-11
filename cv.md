@@ -71,3 +71,5 @@ Self-taught
 
 
 ****
+## English
+* English level - A2. I am currently actively learning English.

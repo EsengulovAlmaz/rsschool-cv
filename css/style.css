@@ -87,6 +87,11 @@ body {
   color: #bfb7a3;
 }
 
+.summary-description {
+  font-size: 18px;
+  line-height: 1.5rem;
+}
+
 .footer {
   background: #bfb7a3;
   color: #fff;

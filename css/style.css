@@ -34,6 +34,17 @@ body {
   letter-spacing: 0.8rem;
   margin: 15px 0;
 }
+.section-item {
+  font-size: 18px;
+  padding: 5px 0;
+}
+.section-link {
+  color: #000;
+  transition: 0.3s;
+}
+.section-link:hover {
+  color: #bfb7a3;
+}
 
 .header {
   background: #bfb7a3;
@@ -73,18 +84,6 @@ body {
   font-weight: 300;
   text-transform: uppercase;
   padding-top: 10px;
-}
-
-.contacts-item {
-  font-size: 18px;
-  padding: 5px 0;
-}
-.contacts-link {
-  color: #000;
-  transition: 0.3s;
-}
-.contacts-link:hover {
-  color: #bfb7a3;
 }
 
 .summary-description {

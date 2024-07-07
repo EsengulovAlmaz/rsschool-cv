@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 90%;
   margin: 0 auto;
 }
 .main-container {
@@ -58,7 +58,7 @@ body {
 .nav-list {
   display: flex;
   align-items: center;
-  gap: 50px;
+  justify-content: space-between;
 }
 .nav-item {
   font-size: 20px;
@@ -112,7 +112,7 @@ body {
   width: 100px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .section {
     width: 100%;
   }

@@ -78,7 +78,7 @@
                     Summary
                 </h2>
 
-                <p class="summary-description">
+                <p class="section-text">
                     My goal is to learn programming and get a job. I think my forte is self-learning.I love writing code and learning new things.
                 </p>
             </section>
@@ -109,8 +109,25 @@
 
             <section class="section" id="code">
                 <h2 class="section-title">
-
+                    Code
                 </h2>
+
+                <pre>
+                    <code class="section-text">
+                        const palindrom = (num) => {
+                            let a = num % 10;
+                            let b = Math.floor(num % 100 / 10);
+                            let c = Math.floor(num % 1000 / 100);
+                            let d = Math.floor(num % 10000 / 1000);
+                        
+                            if(a === d && b === c){
+                                console.log(true);
+                            } else {
+                                console.log(false);
+                            }
+                        };
+                    </code>
+                </pre>
             </section>
 
             <section class="section" id="courses">

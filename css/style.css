@@ -45,6 +45,10 @@ body {
 .section-link:hover {
   color: #bfb7a3;
 }
+.section-text {
+  font-size: 18px;
+  line-height: 1.5rem;
+}
 
 .header {
   background: #bfb7a3;
@@ -84,11 +88,6 @@ body {
   font-weight: 300;
   text-transform: uppercase;
   padding-top: 10px;
-}
-
-.summary-description {
-  font-size: 18px;
-  line-height: 1.5rem;
 }
 
 .footer {

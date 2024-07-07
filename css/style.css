@@ -27,6 +27,7 @@ body {
 }
 .section {
   width: 50%;
+  margin: 40px 0;
 }
 .section-title {
   font-size: 22px;

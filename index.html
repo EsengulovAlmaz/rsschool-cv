@@ -25,14 +25,14 @@
                     <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
                     <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
                     <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
-                    <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+                    <li class="nav-item"><a href="#languages" class="nav-link">English</a></li>
                 </ul>
             </div>
         </div>
     </header>
 
-    <main class="main main-container">
-        <div class="container">
+    <main class="main">
+        <div class="container main-container">
             <section class="profile" id="profile">
                 <div class="profile-avatar">
                     <img 
@@ -112,46 +112,69 @@
                     Code
                 </h2>
 
+                <!-- CODE -->
                 <pre>
                     <code class="section-text">
-                        const palindrom = (num) => {
-                            let a = num % 10;
-                            let b = Math.floor(num % 100 / 10);
-                            let c = Math.floor(num % 1000 / 100);
-                            let d = Math.floor(num % 10000 / 1000);
-                        
-                            if(a === d && b === c){
-                                console.log(true);
-                            } else {
-                                console.log(false);
-                            }
-                        };
+const palindrom = (num) => {
+    let a = num % 10;
+    let b = Math.floor(num % 100 / 10);
+    let c = Math.floor(num % 1000 / 100);
+    let d = Math.floor(num % 10000 / 1000);
+
+    if(a === d && b === c){
+        console.log(true);
+    } else {
+        console.log(false);
+    }
+};
                     </code>
                 </pre>
+                <!-- CODE -->
             </section>
 
             <section class="section" id="courses">
                 <h2 class="section-title">
-
+                    Courses
                 </h2>
+
+                <p class="section-text">
+                    U-skills, Front-end
+                </p>
             </section>
 
             <section class="section" id="projects">
                 <h2 class="section-title">
-
+                    Projects
                 </h2>
+
+                <ul class="section-list">
+                    <li class="section-item">
+                        <a href="https://github.com/EsengulovAlmaz/Anime-App" class="section-link">Anime App</a> (HTML, CSS, JavaScript)
+                    </li>
+                    <li class="section-item">
+                        <a href="https://github.com/EsengulovAlmaz/react-sneakers" class="section-link">Sneakers Shop</a> (HTML, SCSS, React)
+                    </li>
+                </ul>
             </section>
 
             <section class="section" id="education">
                 <h2 class="section-title">
-
+                    Education
                 </h2>
+
+                <p class="section-text">
+                    Kyrgyz State Law University IT-Academy
+                </p>
             </section>
 
             <section class="section" id="languages">
                 <h2 class="section-title">
-
+                    English
                 </h2>
+
+                <p class="section-text">
+                    B1 - Pre-Intermediate
+                </p>
             </section>
         </div>
     </main>
